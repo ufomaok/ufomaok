@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Ufoma and: 
+- 👋 Hi, my name is Ufoma and
     I am currently a currently working on data science-related projects in Python, such as machine learning fundamentals and data visualization.
     My Github pages maps out my data science Journey, and I look forward to building more meaningful/complex projects as I strengthen my technical skills.
     My Github focuses on my own Python development as a developer. Here you will find projects targeting data science, statistical, and software engineering principles.
