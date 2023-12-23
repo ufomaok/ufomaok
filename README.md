@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Ufoma and
-    I am currently a currently working on data science-related projects in Python, such as machine learning fundamentals and data visualization.
+    I am currently working on data science-related projects in Python, such as machine learning fundamentals and data visualization.
     My Github pages maps out my data science journey, and I look forward to building more meaningful/complex projects as I strengthen my technical skills.
     My Github focuses on my own Python development as a developer. Here you will find projects targeting data science, statistical, and software engineering principles.
 - 🌱 I’m currently utilizing: Python, Pandas, Numpy, sk-learn, Seaborn, and more!
